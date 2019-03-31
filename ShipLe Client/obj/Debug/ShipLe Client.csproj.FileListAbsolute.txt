@@ -1,0 +1,11 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\ShipLe Client\bin\Debug\ShipLe Client.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ShipLe Client\ShipLe Client\bin\Debug\ShipLe Client.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ShipLe Client\ShipLe Client\bin\Debug\ShipLe Client.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ShipLe Client\ShipLe Client\bin\Debug\ShipLe Client.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ShipLe Client\ShipLe Client\obj\Debug\ShipLe Client.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ShipLe Client\ShipLe Client\obj\Debug\ShipLe_Client.ShipLeLogin.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ShipLe Client\ShipLe Client\obj\Debug\ShipLe_Client.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ShipLe Client\ShipLe Client\obj\Debug\ShipLe Client.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ShipLe Client\ShipLe Client\obj\Debug\ShipLe Client.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ShipLe Client\ShipLe Client\obj\Debug\ShipLe Client.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ShipLe Client\ShipLe Client\obj\Debug\ShipLe_Client.NewUser.resources
